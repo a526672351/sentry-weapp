@@ -1,0 +1,35 @@
+{
+  "name": "sentry-weapp",
+  "version": "1.0.0",
+  "description": "sentry 小程序版本SDK",
+  "keywords": [
+    "debugging",
+    "errors",
+    "exceptions",
+    "logging",
+    "raven",
+    "sentry"
+  ],
+  "main": "src/singleton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src",
+    "transport",
+    "vendor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a526672351/sentry-weapp.git"
+  },
+  "author": "HQC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a526672351/sentry-weapp/issues"
+  },
+  "homepage": "https://github.com/a526672351/sentry-weapp#readme",
+  "dependencies": {
+    "raven-js": "^3.27.0"
+  }
+}
