@@ -2,13 +2,23 @@
 
 为方便小程序接入sentry，由raven改写而来的小程序版本。
 
-#### 引入文件
-要安装SDK，只需添加高级包，例如：
-
+#### 安装依赖
 ```
 npm install --save sentry-weapp
 yarn add sentry-weapp
+```
+
+#### 方式一：引入定制小程序版本
+要安装SDK，只需添加高级包，例如：
+
+```
 import Raven from 'sentry-weapp'
+```
+
+#### 方式二：引入官方版本
+
+```
+import Raven from 'sentry-weapp/transport'
 ```
 
 #### 初始化Raven
