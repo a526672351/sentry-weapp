@@ -25,4 +25,4 @@ function urlencode (o) {
   return pairs.join('&')
 }
 
-module.exports = Raven;
+export default Raven;
