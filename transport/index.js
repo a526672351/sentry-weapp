@@ -4,7 +4,7 @@ import Raven from 'raven-js'
 Raven.setTransport(options => {
   options.method = 'POST'
   options.url = options.url + '?' + urlencode(options.auth)
-  wxp.request(options).then(response => {
+  wx.request(options).then(response => {
     if (response.ok) {
       options.onSuccess && options.onSuccess()
     } else {
