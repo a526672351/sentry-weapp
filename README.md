@@ -6,9 +6,9 @@
 要安装SDK，只需添加高级包，例如：
 
 ```
-npm install --save @ sentry / browser
-yarn add @ sentry / browser
-var Raven = require('sentry-weapp')
+npm install --save sentry-weapp
+yarn add sentry-weapp
+import Raven from 'sentry-weapp'
 ```
 
 #### 初始化Raven
