@@ -11,12 +11,12 @@
 
 [npm-image]: https://img.shields.io/npm/v/sentry-weapp.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/sentry-weapp
-[travis-image]: https://img.shields.io/travis/node-modules/sentry-weapp.svg?style=flat-square
-[travis-url]: https://travis-ci.org/node-modules/sentry-weapp
-[codecov-image]: https://codecov.io/gh/node-modules/sentry-weapp/branch/master/graph/badge.svg
-[codecov-url]: https://codecov.io/gh/node-modules/sentry-weapp
-[david-image]: https://img.shields.io/david/node-modules/sentry-weapp.svg?style=flat-square
-[david-url]: https://david-dm.org/node-modules/sentry-weapp
+[travis-image]: https://img.shields.io/travis/a526672351/sentry-weapp.svg?style=flat-square
+[travis-url]: https://travis-ci.org/a526672351/sentry-weapp
+[codecov-image]: https://codecov.io/gh/a526672351/sentry-weapp/branch/master/graph/badge.svg
+[codecov-url]: https://codecov.io/gh/a526672351/sentry-weapp
+[david-image]: https://img.shields.io/david/a526672351/sentry-weapp.svg?style=flat-square
+[david-url]: https://david-dm.org/a526672351/sentry-weapp
 [snyk-image]: https://snyk.io/test/npm/sentry-weapp/badge.svg?style=flat-square
 [snyk-url]: https://snyk.io/test/npm/sentry-weapp
 [download-image]: https://img.shields.io/npm/dm/sentry-weapp.svg?style=flat-square
