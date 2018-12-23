@@ -1,6 +1,6 @@
 {
   "name": "sentry-weapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sentry 小程序版本SDK",
   "keywords": [
     "debugging",
